@@ -1,2 +1,1 @@
-## Python CLI tools I enjoy making! 
-## Hope you enjoy it while using it.
+### Python CLI tools I enjoy patching together! Hope you enjoy using it too.
